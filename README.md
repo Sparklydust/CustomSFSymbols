@@ -15,10 +15,11 @@ anyone can contribute by adding their own one. You will find more information ab
 You can always contribute by adding your own custom SF Symbols to the project. Please, 
 
 - Ensure that your symbols does not already exist. 
-- All sizes must be correctly added. None must be forgotten.
-- Follow the Apple naming convention for the SF Symbols. 
+- All sizes from the SF Symbols template must be correctly added.
+- Follow the Apple naming convention for SF Symbols. 
 - Retrieve the size Regular-M as a .png file to add them to the Images folder of this project. 
-- Point this .png file path to the Symbols list of this README.md file in an alphabetical order. 
+- Add a white background to this image for the symbol to be seen on dark mode and a height of 36px.
+- Point this image path inside the README.md file in an alphabetical order. 
 
 
 You can always watch WWDC videos for more information about SF Symbols and how to make 
@@ -32,5 +33,8 @@ custom ones.
 Thanks for your contribution to the community. 
 
 
-## Symbols
+## Available Symbols
 
+![market.up](../main/Images/market.up.png)
+
+![max.stopwatch](../main/Images/max.stopwatch.png)
